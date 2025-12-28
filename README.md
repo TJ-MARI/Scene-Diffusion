@@ -3,7 +3,7 @@
 This is official implementation of MM'24 oral paper *Scene Diffusion: Text-driven Scene Image Synthesis Conditioning on a Single 3D Model*.
 Conditioned only on simple renderings of a single 3D model, our method can complete the background and generate high-quality scene images of the model in the specified scene. The generated results not only achieve photorealistic visual effects but also faithfully preserve the texture details of the original 3D model. Our method demonstrates excellent performance in scenarios involving single objects, multiple objects, diverse text descriptions, and various viewing angles.
 
-![The results of Scene Diffusion](.\asset\showcase.png)  
+![The results of Scene Diffusion](./asset/showcase.png)  
 
 Our current open-source content includes:
 - [x] Complete training and testing datasets
@@ -94,3 +94,4 @@ If you use this project for research, please cite the relevant paper.
   year={2024}
 }
 ```
+
